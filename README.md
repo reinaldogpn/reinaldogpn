@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on machine learning and image classification using PyTorch.
+- 🔭 I’m currently working on machine learning and image classification using <a href="https://pytorch.org">PyTorch</a>.
 - 🌱 I’m currently learning web development with HTML/CSS/Javascript.
 
 <div align="center">
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   
 <div>
   <a href = "mailto:reinaldo.neto@ufv.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinaldogpn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href= "https://www.linkedin.com/in/reinaldogpn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "http://t.me/reinaldogpn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"</a>
 </div>
