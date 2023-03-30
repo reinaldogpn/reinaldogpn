@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Reinaldo 👋
 
 <!--
 **reinaldogpn/reinaldogpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on machine learning and image classification using PyTorch.
+- 🌱 I’m currently learning web development with HTML/CSS/Javascript.
 
 <div align="center">
   <a href="https://github.com/reinaldogpn">
