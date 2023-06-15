@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on machine learning and image classification using <a href="https://pytorch.org">PyTorch</a>.
 - 🌱 I’m currently learning web development with HTML, CSS, Javascript & PHP.
-- ⚡ Fun fact: I'm too lasy 😄 so I love to learn about batch/shell scripts so I can automate my tasks!
+- ⚡ Fun fact: I'm kinda lasy 😄 so I love to learn about batch/shell scripts so I can automate my tasks!
 
 <div align="center">
   <a href="https://github.com/reinaldogpn">
