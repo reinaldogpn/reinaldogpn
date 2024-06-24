@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on deep learning and image classification.
+- 🌱 I’m currently learning multiplatform software development with .NET MAUI.
 - ⚡ Fun fact: I'm a curious person and I love to learn about powershell/shell scripts so I can automate my tasks!
 
 <div align="center">
