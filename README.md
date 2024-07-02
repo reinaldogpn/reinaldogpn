@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning multiplatform software development with .NET MAUI.
+- 🌱 I’m currently learning web and desktop software development with .NET
 - ⚡ Fun fact: I'm a curious person and I love to learn about powershell/shell scripts so I can automate my tasks!
 
 <div align="center">
