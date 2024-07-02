@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning web and desktop software development with .NET
+- 🌱 I’m currently learning software development on .NET platform, practicing with ASP, WPF and MAUI 🤓
 - ⚡ Fun fact: I'm a curious person and I love to learn about powershell/shell scripts so I can automate my tasks!
 
 <div align="center">
